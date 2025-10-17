@@ -1,2 +1,2 @@
-# C-
+# C++
 To learn C++ and DSA
