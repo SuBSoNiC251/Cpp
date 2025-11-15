@@ -1,1 +1,13 @@
+# Ignore all executables without extensions
+*
+
+# Allow directories to be tracked
+!*/
+
+# Allow files with extensions to be tracked
+!*.*
+# Ignore specific file types
 *.exe
+.vscode
+*.log
+*.debug.sym
